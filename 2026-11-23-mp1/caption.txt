@@ -1,0 +1,14 @@
+Mercado Pago y ARCA: qué le informa de verdad tu billetera.
+
+No es una lista de cada cobro. Se informan los totales del mes, lo que entró, lo que salió y el saldo final, separados por tipo de movimiento.
+Para personas humanas, solo si en el mes entran o salen $50 millones o más, o el saldo llega a eso (operaciones desde abril de 2026). Para empresas, $30 millones.
+En transferencias de más de $2.500.000 también se informa la cuenta de origen o destino.
+Que te informen no es una multa ni un impuesto. Pero ARCA lo compara con lo que facturás: de eso se trata el próximo posteo de la serie.
+
+¿Cobrás tus ventas por Mercado Pago? Comentá MP o escribime MP por mensaje y vemos si lo que facturás coincide con lo que entra.
+Mandáselo a quien vende y cobra todo por Mercado Pago.
+
+Antonella Santangelo · Contadora Pública (UBA) · T° 421 F° 119 · CPCECABA
+Fuente: RG AFIP 4614/2019, modificada por RG ARCA 5804/2025 (BO 24/12/2025) · ARCA, Economía digital, evolución de los umbrales
+
+#mercadopago #arca #monotributo
