@@ -1,4 +1,4 @@
-Importar sin sustos #4: lo que te pide ARCA antes de tu primera importación.
+¿Ya pagaste tu primera compra afuera y no tenés el Perfil de Importador? Esto te pide ARCA antes del primer despacho.
 
 Ya no existe el registro de importadores: ahora se pide el Perfil de Importador/Exportador en ARCA.
 Te pide alta en IVA y Ganancias (o en el Monotributo, si corresponde), tus datos biométricos registrados y el certificado de antecedentes penales, que se presenta por el SITA (subtrámite 10047). En sociedades, el de todos los socios.
