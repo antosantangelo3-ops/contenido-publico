@@ -1,0 +1,14 @@
+¿Facturás desde un sistema o una app? Desde el 1/12 ARCA puede rechazarte la factura.
+
+Desde el 1/12/2026 es obligatorio informar la condición frente al IVA de tu cliente en cada factura electrónica: consumidor final, responsable inscripto, monotributista, etc.
+Si tu sistema no manda ese dato, ARCA no autoriza el comprobante. Y sin CAE no hay factura.
+Pega sobre todo a quien factura desde un sistema de gestión, una tienda online o una app conectada a ARCA.
+Qué hacer hoy: preguntale a tu proveedor del sistema si ya lo informa, y cargá bien la condición de cada cliente.
+
+¿Facturás desde un sistema? Comentá FACTURA y te paso qué preguntarle. Si querés, vemos tu caso.
+Mandáselo a quien vende online y factura con un sistema.
+
+Antonella Santangelo · Contadora Pública (UBA) · T° 421 F° 119 · CPCECABA
+Fuente: RG AFIP 5616/2024 · ARCA, Manual del desarrollador de factura electrónica (WSFEv1), versión 4.8 del 01/12/2026
+
+#facturaelectronica #arca #emprendedoresargentinos
